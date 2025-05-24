@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Natalia ✌️
 
-<!--
-**natyvcodes/natyvcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer from Cali, Colombia 🇨🇴, with nearly 8 months of experience building full stack applications.
 
-Here are some ideas to get you started:
+🎓 Computing Engineering Student  <br/>
+💻 Passionate about web development, clean code, and continuous learning  <br/>
+🌐 Experienced with Angular, TypeScript, Node.js, PostgreSQL, MongoDB, and more <br/>
+🌍 English level: B2 (Independent user – CEFR) <br/>
+☁️ Currently learning about React and Testing <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/judyfajardo)
+
+![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=natyvcodes&show_icons=true&bg_color=00000000)
