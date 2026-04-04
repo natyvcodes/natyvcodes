@@ -1,6 +1,6 @@
 ## Hi, I'm Natalia ✌️
 
-I'm a Software Engineer from Cali, Colombia 🇨🇴, with nearly 8 months of experience building full stack applications.
+I'm a Software Engineer from Cali, Colombia 🇨🇴, with nearly 2 years of experience building full stack applications.
 
 🎓 Computing Engineering Student  <br/>
 💻 Passionate about web development, clean code, and continuous learning  <br/>
